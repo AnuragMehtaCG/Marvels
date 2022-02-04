@@ -13,7 +13,6 @@ This project has been built using UIKit and no third party dependencies.
 
 - **Characters list:** displays a paginated list of characters and their thumbnails.
 - **Character detail:** displays a picture of a character, it's full description and the Marvel series of those characters.
-
 <p align="center">
   <img src="./Images/Characters.png" height="512">
   <img src="./Images/CharacterDetails.png" height="512">
